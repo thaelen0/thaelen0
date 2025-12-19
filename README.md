@@ -65,8 +65,6 @@
 
 ---
 
----
-
 ## 📈 Github Analytics
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=thaelen0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180px" />
@@ -75,5 +73,5 @@
 
 ---
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=1Ayakiro1&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=thaelen0&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
