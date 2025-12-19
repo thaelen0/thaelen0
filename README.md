@@ -1,16 +1,52 @@
-## Hi there 👋
+# Привет! Я [Твое Имя/Ник] 👋
+### Fullstack Developer | Automation Engineer | 3D & Game Dev Enthusiast
 
-<!--
-**thaelen0/thaelen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю надежные веб-приложения, автоматизирую сложные процессы и экспериментирую с визуальными мирами в 3D. Мой подход — это сочетание чистого кода, глубокого тестирования и креативного дизайна.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Основные направления
+
+### 🌐 Web Development
+Создаю интерактивные интерфейсы и стабильную логику.
+- **Frontend:** React, TypeScript, HTML5, CSS3.
+- **Desktop:** Разработка графических интерфейсов на Tkinter.
+
+### 🤖 Automation & Scraping
+Превращаю рутину в автоматизированные скрипты.
+- **Testing:** Написание E2E тестов на Playwright и Selenium.
+- **Data Mining:** Сбор данных любой сложности через Beautiful Soup.
+- **Bots:** Создание многофункциональных Telegram-ботов на aiogram.
+
+### 🎮 Game Dev & 3D Design
+Воплощаю идеи в объеме.
+- **Engines:** Разработка логики в Unreal Engine.
+- **Art:** Моделирование и визуализация в Blender.
+
+---
+
+## 🛠 Технологический стек
+
+| Сфера | Инструменты |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript |
+| **Web & UI** | React, Tkinter, HTML/CSS |
+| **Automation** | Playwright, Selenium, BS4, Aiogram |
+| **3D & Games** | Unreal Engine, Blender |
+| **DevOps & Tools** | Docker, Cursor, PyCharm |
+
+---
+
+## 📈 Моя статистика GitHub
+![Твоя статистика](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical)
+![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical)
+
+---
+
+## 📬 Связаться со мной
+- **Telegram:** [@твой_ник]
+- **LinkedIn:** [ссылка]
+- **Email:** [твой_email]
+
+---
+*Generated with ❤️ and Cursor*
